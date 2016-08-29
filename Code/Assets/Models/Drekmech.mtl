@@ -1,0 +1,60 @@
+newmtl Drekmech_Material__96
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Texture2.png
+map_Ka Texture2.png
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl Drekmech_Material__130
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Texture1.png
+map_Ka Texture1.png
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl Drekmech_Material__131
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Texture0.png
+map_Ka Texture0.png
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl Material__96
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Texture2.png
+map_Ka Texture2.png
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl Material__130
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Texture1.png
+map_Ka Texture1.png
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl Material__131
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Texture0.png
+map_Ka Texture0.png
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
